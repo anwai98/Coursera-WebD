@@ -1,2 +1,2 @@
-# coursera-module-2-webd
-Coursera Repository
+# Coursera-WebD
+Coursera Repository for some of the modules.
